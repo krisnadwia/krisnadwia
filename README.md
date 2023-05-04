@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krisnadwia" alt="krisnadwia" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Firebase**
+- 🌱 I’m currently learning **Flutter and Firebase**
 
 - 👨‍💻 All of my projects are available at [https://github.com/krisnadwia?tab=repositories](https://github.com/krisnadwia?tab=repositories)
 
-- 💬 Ask me about **Flutter, Firebase**
+- 💬 Ask me about **Android Development**
 
 - 📄 Know about my experiences [https://github.com/krisnadwia](https://github.com/krisnadwia)
 

@@ -1,11 +1,9 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=krisnadwia&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=krisnadwia" />
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisnadwia&langs_count=100)" />
-</p>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=krisnadwia&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krisnadwia&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20)
+![](https://github-readme-streak-stats.herokuapp.com/?user=krisnadwia&theme=radical&hide_border=false)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krisnadwia" alt="krisnadwia" /></a> </p>
 
